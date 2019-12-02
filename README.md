@@ -46,7 +46,7 @@ No additional dependencies or pip requirements.txt
 
 - Assumptions : all files are in the same directory
 
-- Use the relevant "python" command to run the script, reading a text file from the "command line":
+- Use the relevant "python" command (based on your settings) to run the script, reading a text file from the "command line":
 
   ```
   python start.py < teams.txt
