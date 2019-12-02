@@ -67,3 +67,11 @@ No additional dependencies or pip requirements.txt
   
   ```
 
+# Run Tests
+
+- the following command can be used to run the test file:
+
+```
+python -m unittest test_league.py
+
+```
