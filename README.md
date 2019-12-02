@@ -69,7 +69,7 @@ No additional dependencies or pip requirements.txt
 
 # Run Tests
 
-- Use the relevant "python" command (based on your settings) to run tests
+- To run tests, use the relevant "python" command (based on your settings), from the command line:
 
 ```
 python -m unittest test_league.py
