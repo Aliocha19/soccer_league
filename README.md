@@ -34,3 +34,9 @@ EXPECTED OUTPUT
 3. Snakes, 1 pt
 
 5. Grouches, 0 pts
+
+
+# Requirements
+
+Python 3.7.0 or 3.7.x
+
