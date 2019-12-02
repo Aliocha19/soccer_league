@@ -48,5 +48,8 @@ No additional dependencies or pip requirements.txt
 
 - Use the relevant "python" command to run the script, reading a text file from the "command line":
 
+  ```
   python start.py < teams.txt
+  
+  ```
 
