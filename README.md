@@ -44,9 +44,11 @@ No additional dependencies or pip requirements.txt
 
 # Run with sample data
 
-- Assumptions : all files are in the same directory
+- Assumption : all files are in the same directory
 
-- Use the relevant "python" command (based on your settings) to run the script, reading a text file from the "command line":
+- A text file is provided with samples of game results : teams.txt
+
+- Use the relevant "python" command (based on your settings) to run the script, reading the text file from the "command line":
 
   ```
   python start.py < teams.txt
