@@ -11,7 +11,7 @@ If two or more teams have the same number of points, they should have the same
 rank and be printed in alphabetical order (as in the tie for 3rd place in the sample
 data).
 
-SAMPLE INPUT
+## SAMPLE INPUT
 Lions 3, Snakes 3
 Tarantulas 1, FC Awesome 0
 Lions 1, FC Awesome 1
