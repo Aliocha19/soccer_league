@@ -40,3 +40,5 @@ EXPECTED OUTPUT
 
 Python 3.7.0 or 3.7.x
 
+No additional dependencies or pip requirements.txt
+
